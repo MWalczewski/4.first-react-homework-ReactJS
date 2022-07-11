@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.menu-button {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(42, 160, 228);
+  border-radius: 7px;
+}
